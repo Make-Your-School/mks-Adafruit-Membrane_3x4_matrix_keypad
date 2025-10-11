@@ -21,7 +21,7 @@ embedded_example_file: "examples/Membrane_3x4_matrix_keypad_minimal/Membrane_3x4
 
 # Tastenfeld
 
-![Tastenfeld](58_tastenfeld.jpg)
+![Tastenfeld](./58_tastenfeld.jpg)
 
 ## Beschreibung
 Das Tastenfeld verfügt über zwölf Tasten, die als Eingabe für jegliche Elektronik-Projekte eingesetzt werden können. Das Tastenfeld lässt sich über sieben digitale Anschlusspins eines Arduinos oder Raspberry Pis ausglesen. Es ist sehr dünn und verfügt über eine selbsthaftende Rückseite, sodass das Tastenfeld sehr leicht aufgeklebt werden kann.
