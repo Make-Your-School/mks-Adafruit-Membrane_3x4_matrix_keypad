@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-Adafruit-Membrane_3x4_matrix
 repo_prefix: "mks"
 repo_part: "Membrane_3x4_matrix_keypad"
 embedded_example_file: "examples/Membrane_3x4_matrix_keypad_minimal/Membrane_3x4_matrix_keypad_minimal.ino"
+title: 'Tastenfeld'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
