@@ -1,6 +1,12 @@
 /*
-Dieser Code benutzt die Keypad Bibliothek von Mark Stanley und Alexander Brevig
-Installiere dafür die Bibliothek "Keypad" in der Arduino IDE
+  Dieser Code benutzt die Keypad Bibliothek von Mark Stanley und Alexander Brevig
+  Installiere dafür die Bibliothek "Keypad" in der Arduino IDE
+
+  based on https://www.youtube.com/watch?v=KKbfTAG5HsU
+
+  modified on 18 Dec 2025
+  by klemens wohlfarth, added comments
+
 */
 
 #include "Keypad.h"
